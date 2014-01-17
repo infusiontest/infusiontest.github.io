@@ -1,0 +1,11 @@
+﻿{
+  "agenda": {
+    "header": "Restland Funeral Home"
+  },
+  "funeral": {
+	"header": "What type of funeral would you like?"
+  },
+  "package":{
+	"header": "Dignity Memorial Packages"
+  }
+}
